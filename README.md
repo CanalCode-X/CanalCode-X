@@ -16,7 +16,7 @@
   <img align="center" alt="CanalCode-X-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="CanalCode-X-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 
-  <img align="right" alt="CanalCode-X-pic" height="150" style="border-radius:50px;" src="https://github.com/stephaniesantosss/stephaniesantosss/blob/main/avatar.PNG">
+  <img align="right" alt="CanalCode-X-pic" height="150" style="border-radius:50px;" src="https://github.com/CanalCode-X/CanalCode-X/blob/main/channels4_profile.jpg">
 </div>
   
   ##

@@ -16,7 +16,7 @@
   <img align="center" alt="CanalStephanieSantos-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="CanalStephanieSantos-Aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 
-  <img align="right" alt="CanalStephanieSantos-pic" height="150" style="border-radius:50px;" src="https://github.com/CanalCode-X/CanalCode-X/blob/main/channels4_profile.jpg">
+  <img align="right" alt="CanalStephanieSantos-pic" height="150" style="border-radius:50px;" src="https://github.com/CanalStephanieSantos/CanalStephanieSantos/blob/main/Stephanie%20Santos%20(5)%20(1).png">
 </div>
   
   ##
